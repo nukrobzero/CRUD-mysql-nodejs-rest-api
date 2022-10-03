@@ -1,4 +1,4 @@
-# mysql-nodejs-rest-api
+# CRUD-mysql-nodejs-rest-api
 
 -Step 1
   install nodejs 
